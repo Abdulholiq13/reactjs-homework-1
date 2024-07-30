@@ -1,0 +1,9 @@
+.button-green {
+	font-size: 18px;
+	line-height: 20px;
+	color: #fff;
+	border: none;
+	padding: 11px 28px;
+	background-color: #37806b;
+	border-radius: 20px 0 20px 0;
+}

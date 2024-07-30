@@ -1,0 +1,35 @@
+.intro {
+	display: flex;
+	align-items: center;
+}
+
+.intro__container {
+	display: flex;
+	gap: 44px;
+}
+
+.intro__content-text {
+	width: 606px;
+	height: 396px;
+}
+
+.intro__content-subtitle {
+	font-size: 20px;
+	color: #646464;
+	margin-bottom: 12px;
+}
+
+.intro__content-title {
+	font-size: 72px;
+	line-height: 78px;
+	color: #212121;
+	margin-top: 0;
+	margin-bottom: 23px;
+}
+
+.intro__content-desc {
+	font-size: 18px;
+	color: #646464;
+	font-weight: 400;
+	line-height: 30px;
+}

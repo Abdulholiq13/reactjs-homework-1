@@ -1,0 +1,43 @@
+.header {
+	padding: 24px;
+	background-color: white;
+	margin-bottom: 70px;
+}
+
+.header__container {
+	display: flex;
+	align-items: center;
+}
+
+.navbar {
+	margin-left: auto;
+	margin-right: 64px;
+}
+
+.navbar__list {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	list-style: none;
+	gap: 40px;
+}
+
+.navbar__link {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #212121;
+}
+
+.active__link {
+	color: #646464;
+}
+
+.header__btn {
+	border-radius: 15px 0 15px 0;
+	border: none;
+	padding: 5px 19px;
+	background-color: #caa892;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 600;
+}
